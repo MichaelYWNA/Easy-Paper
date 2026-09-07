@@ -15,13 +15,13 @@ This guide explains how to install Easy-Paper as a local Codex skill.
 Install directly into the Codex skill folder:
 
 ```powershell
-git clone https://github.com/WMar1ng/Easy-Paper.git "$env:USERPROFILE\.codex\skills\easy-paper"
+git clone https://github.com/MichaelYWNA/Easy-Paper.git "$env:USERPROFILE\.codex\skills\easy-paper"
 ```
 
 Or install from a local clone:
 
 ```powershell
-git clone https://github.com/WMar1ng/Easy-Paper.git
+git clone https://github.com/MichaelYWNA/Easy-Paper.git
 cd Easy-Paper
 .\install.ps1
 ```
@@ -37,13 +37,13 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 Install directly:
 
 ```bash
-git clone https://github.com/WMar1ng/Easy-Paper.git ~/.codex/skills/easy-paper
+git clone https://github.com/MichaelYWNA/Easy-Paper.git ~/.codex/skills/easy-paper
 ```
 
 Or install from a local clone:
 
 ```bash
-git clone https://github.com/WMar1ng/Easy-Paper.git
+git clone https://github.com/MichaelYWNA/Easy-Paper.git
 cd Easy-Paper
 bash install.sh
 ```

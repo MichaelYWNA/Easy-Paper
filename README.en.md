@@ -61,13 +61,13 @@ flowchart TD
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/WMar1ng/Easy-Paper.git "$env:USERPROFILE\.codex\skills\easy-paper"
+git clone https://github.com/MichaelYWNA/Easy-Paper.git "$env:USERPROFILE\.codex\skills\easy-paper"
 ```
 
 macOS / Linux:
 
 ```bash
-git clone https://github.com/WMar1ng/Easy-Paper.git ~/.codex/skills/easy-paper
+git clone https://github.com/MichaelYWNA/Easy-Paper.git ~/.codex/skills/easy-paper
 ```
 
 Restart Codex or open a new task, then invoke:

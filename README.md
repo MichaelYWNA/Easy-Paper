@@ -98,13 +98,13 @@ Easy-Paper/
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/WMar1ng/Easy-Paper.git "$env:USERPROFILE\.codex\skills\easy-paper"
+git clone https://github.com/MichaelYWNA/Easy-Paper.git "$env:USERPROFILE\.codex\skills\easy-paper"
 ```
 
 macOS / Linux：
 
 ```bash
-git clone https://github.com/WMar1ng/Easy-Paper.git ~/.codex/skills/easy-paper
+git clone https://github.com/MichaelYWNA/Easy-Paper.git ~/.codex/skills/easy-paper
 ```
 
 然后重新打开 Codex 或开启一个新任务，输入：
@@ -118,7 +118,7 @@ $easy-paper 接入我的 LaTeX 论文项目，并先扫描项目结构
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/WMar1ng/Easy-Paper.git
+git clone https://github.com/MichaelYWNA/Easy-Paper.git
 cd Easy-Paper
 .\install.ps1
 ```
@@ -126,7 +126,7 @@ cd Easy-Paper
 macOS / Linux：
 
 ```bash
-git clone https://github.com/WMar1ng/Easy-Paper.git
+git clone https://github.com/MichaelYWNA/Easy-Paper.git
 cd Easy-Paper
 bash install.sh
 ```
