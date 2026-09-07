@@ -1,0 +1,8 @@
+interface:
+  display_name: "Easy-Paper"
+  short_description: "LaTeX论文证据驱动逐段逐句修订"
+  brand_color: "#2563EB"
+  default_prompt: "Use $easy-paper to revise my LaTeX paper with verified sources, paragraph-by-paragraph comments, and compile checks."
+
+policy:
+  allow_implicit_invocation: true
